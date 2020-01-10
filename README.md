@@ -179,7 +179,8 @@
 - [ ] Joon-Young Yang, Joon-Hyuk Chang. *Joint Optimization of Neural Acoustic Beamforming and Dereverberation with x-Vectors for Robust Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1356.html)]
 
 
-- [ ] Xiaoxiao Miao, Ian McLoughlin, Yonghong Yan. *A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1256.html)]
+- [x] Xiaoxiao Miao, Ian McLoughlin, Yonghong Yan. *A New Time-Frequency Attention Mechanism for TDNN and CNN-LSTM-TDNN, with Application to Language Identification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1256.html)]
+ - Frequency attention 
 
 ### Poster 10-A: Speaker Recognition 3
 
