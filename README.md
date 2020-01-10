@@ -70,18 +70,18 @@
 
 ### Oral 8-5: Speaker Recognition 2
 
-- [x] Themos Stafylakis, Johan Rohdin, Oldřich Plchot, Petr Mizera, Lukáš Burget. *Self-Supervised Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2842.html)]
+- [ ] Themos Stafylakis, Johan Rohdin, Oldřich Plchot, Petr Mizera, Lukáš Burget. *Self-Supervised Speaker Embeddings* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2842.html)]
   - `TI-SV` `VoxCeleb` `SITW` `Self-supervised`
   - Reconstruct frames using speaker embedding and ASR outputs
 
 - [ ] Andreas Nautsch, Jose Patino, Amos Treiber, Themos Stafylakis, Petr Mizera, Massimiliano Todisco, Thomas Schneider, Nicholas Evans. *Privacy-Preserving Speaker Recognition with Cohort Score Normalisation* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2638.html)]
 
-- [x] Yi Liu, Liang He, Jia Liu. *Large Margin Softmax Loss for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2357.html)]
+- [ ] Yi Liu, Liang He, Jia Liu. *Large Margin Softmax Loss for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2357.html)]
   - `TI-SV` `VoxCeleb` `AM-Softmax`
   - VoxCeleb1 EER 2.00%
   - A large weight decay at 0.01
 
-- [x] Amirhossein Hajavi, Ali Etemad. *A Deep Neural Network for Short-Segment Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2240.html)]
+- [ ] Amirhossein Hajavi, Ali Etemad. *A Deep Neural Network for Short-Segment Speaker Recognition* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2240.html)]
   - `TI-SV` `VoxCeleb` `Short duration` `Multi-stage aggregation`
   - Apply non-linear aggregator over embeddings from different stage
 
@@ -89,7 +89,7 @@
   - `TI-SV` `VoxCeleb` `Conv1D` `Squeeze-and-excitation (SE)` `Additive supervision softmax`
   - Use statistics pooling to replace global average pooling in squeeze-and-excitation
 
-- [x] Suwon Shon, Hao Tang, James Glass. *VoiceID Loss: Speech Enhancement for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1496.html)]
+- [ ] Suwon Shon, Hao Tang, James Glass. *VoiceID Loss: Speech Enhancement for Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1496.html)]
   - `TI-SV` `Speech enhancement (SE)` `VoxCeleb` `Mask` `Conv1D`
 
 ### Poster 6-A: Speaker Recognition and Anti-Spoofing
@@ -98,10 +98,10 @@
 
 - [ ] Ankur T. Patil, Rajul Acharya, Pulikonda Aditya Sai, Hemant A. Patil. *Energy Separation-Based Instantaneous Frequency Estimation for Cochlear Cepstral Feature for Replay Spoof Detection* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2742.html)]
 
-- [x] Victoria Mingote, Antonio Miguel, Dayana Ribas, Alfonso Ortega, Eduardo Lleida. *Optimization of False Acceptance/Rejection Rates and Decision Threshold for End-to-End Text-Dependent Speaker Verification Systems* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2550.html)]
+- [ ] Victoria Mingote, Antonio Miguel, Dayana Ribas, Alfonso Ortega, Eduardo Lleida. *Optimization of False Acceptance/Rejection Rates and Decision Threshold for End-to-End Text-Dependent Speaker Verification Systems* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2550.html)]
   - `TD-SV` `RSR2015` `approximate DCF loss`
 
-- [x] Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu, Wu-Jun Li. *Deep Hashing for Speaker Identification and Retrieval* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html)]
+- [ ] Lei Fan, Qing-Yuan Jiang, Ya-Qi Yu, Wu-Jun Li. *Deep Hashing for Speaker Identification and Retrieval* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2457.html)]
   - `TI-SV` `VoxCeleb` `Deep additive margin hashing (DAMH)`
 
 - [ ] Mirko Marras, Paweł Korus, Nasir Memon, Gianni Fenu. *Adversarial Optimization for Dictionary Attacks on Speaker Verification* [[INTERSPEECH 2019](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2430.html)]
